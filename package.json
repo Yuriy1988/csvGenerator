@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "csv": "^2.0.0",
+    "csv-generate": "^2.0.2",
+    "csv-write-stream": "^2.0.0",
+    "faker": "^4.1.0",
+    "fast-csv": "^2.4.1",
+    "moment": "^2.21.0",
+    "uuid": "^3.2.1"
+  }
+}
